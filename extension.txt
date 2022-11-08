@@ -4,3 +4,6 @@ html publisher
 python
 pyenv pipeline
 shining panda
+
+for docker
+wsl --install -d <Distribution Name>
